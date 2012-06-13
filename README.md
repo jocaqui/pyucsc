@@ -1,4 +1,6 @@
-pyucsc
-======
+Python bindings to UCSC genome browser tables and fasta files
+=============================================================
 
-Python API to UCSC genome browser tables
+
+
+
