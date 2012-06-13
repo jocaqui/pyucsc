@@ -159,5 +159,6 @@ to add new classes and mappings.
 Development
 -----------
 
-TODO
+Please use the github repository for issues and patches:
+https://github.com/PopulationGenetics/pyucsc
 
