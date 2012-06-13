@@ -21,5 +21,5 @@ setup(
         'Topic :: Scientific/Engineering',
       ],
     keywords='bioinformatics ucsc genome',
-
+    license='License :: OSI Approved :: BSD License'
 )
