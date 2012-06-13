@@ -8,6 +8,7 @@ setup(
     author_email='james.casbon@popgentech.com',
     packages=['ucsc'],
     install_requires=[
+        'numpy',
         'SQLAlchemy',
         'pyyaml',
         'fastinterval',
