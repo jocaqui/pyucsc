@@ -29,7 +29,7 @@ A really simple example session::
 Documentation
 -------------
 
-Please see the [pyucsc documentation](http://readthedocs.org/projects/pyucsc/)
+Please see the [pyucsc documentation](http://pyucsc.readthedocs.org/)
 
 
 
