@@ -15,7 +15,7 @@ Example
 
 A really simple example session::
 
-    >>> from ucsc import use
+    >>> import ucsc
     >>> from ucsc.model import KnownGene
     >>> session, genome = ucsc.use('hg19') 
     >>> vhl = session.query(KnownGene).filter(KnownGene.geneSymbol=='VHL').one()
