@@ -26,6 +26,11 @@ A really simple example session::
     >>> vhl.transcript.sequence
     'CCTCGCCTCCGTTACAACGGCCTACGGTGCTG...'
 
+Documentation
+-------------
+
+Please see the [pyucsc documentation](http://readthedocs.org/projects/pyucsc/)
+
 
 
 
